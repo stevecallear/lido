@@ -38,7 +38,7 @@ type (
 	}
 )
 
-// ErrTimeout indicates that a timeout occured waiting for an available item
+// ErrTimeout indicates that a timeout occurred waiting for an available item
 var ErrTimeout = errors.New("pool: timeout waiting for available item")
 
 // New returns a new pool
