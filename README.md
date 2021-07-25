@@ -1,5 +1,5 @@
 # lido
-[![Build Status](https://travis-ci.org/stevecallear/lido.svg?branch=master)](https://travis-ci.org/stevecallear/lido)
+[![Build Status](https://github.com/stevecallear/lido/actions/workflows/build.yml/badge.svg)](https://github.com/stevecallear/lido/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/stevecallear/lido/branch/master/graph/badge.svg)](https://codecov.io/gh/stevecallear/lido)
 [![Go Report Card](https://goreportcard.com/badge/github.com/stevecallear/lido)](https://goreportcard.com/report/github.com/stevecallear/lido)
 
